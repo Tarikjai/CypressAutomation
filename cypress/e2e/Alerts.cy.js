@@ -1,5 +1,5 @@
  
-describe('Alert', ()=> {
+describe('Alert 2', ()=> {
 
     it('Hande alerts',()=> {
         cy.visit('https://the-internet.herokuapp.com/javascript_alerts')
